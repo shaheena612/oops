@@ -1,0 +1,1 @@
+hiding unnecessary data showing only inportant data

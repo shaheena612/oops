@@ -1,1 +1,1 @@
-inheriting prent  to child and using code
+inheriting parent  to child and using code
