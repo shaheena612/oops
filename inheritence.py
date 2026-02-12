@@ -1,0 +1,1 @@
+inheriting prent  to child and using code
